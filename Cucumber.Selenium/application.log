@@ -1,0 +1,8 @@
+2019-01-06 14:31:05,960  INFO [main] DefinitionTest:29 - Opens WebDriver
+2019-01-06 14:31:11,121  INFO [main] DefinitionTest:31 - Opening Webpage
+2019-01-06 14:31:11,217  INFO [main] DefinitionTest:34 - Opening for the webpage to load
+2019-01-06 14:31:11,390  INFO [main] DefinitionTest:43 - Entering data in Textbox
+2019-01-06 14:31:11,777  INFO [main] DefinitionTest:46 - Clicking on next
+2019-01-06 14:31:15,855  INFO [main] DefinitionTest:49 - Entering password in the text box
+2019-01-06 14:31:25,421  INFO [main] DefinitionTest:62 - Navigating back to the Webpage
+2019-01-06 14:31:30,183  INFO [main] DefinitionTest:65 - Closing the webdriver
